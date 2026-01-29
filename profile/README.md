@@ -13,7 +13,6 @@ MODE        :: READ ONLY
 
 Welcome to **Frug-Solana**, home of **FRUG**, an IP driven, art first project built around hand drawn work by **Big Frugowski**.
 
-This org is meant to feel like a playable artifact.
 
 ## Start here
 - 🧬 Degenora Codex (lore archive): https://github.com/Frug-Solana/degenora-codex
