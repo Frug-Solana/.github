@@ -27,7 +27,3 @@ This org is meant to feel like a playable artifact.
 ## Canon
 - Chain: Solana
 - CA: EBnA9HbJkhRTP1n1ZCkZzNCGjLssRWTetBFL9nzPpump
-
-## Notes
-- This org only hosts public friendly materials.
-- No keys, no private ops, no sensitive treasury data.
